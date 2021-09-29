@@ -1,0 +1,17 @@
+.shop-name-con{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome-card h1{
+    margin: 2rem 2rem;
+    font-size: 1.3rem !important;
+}
+
+.quotes-bg{
+    width: 100%;
+    
+     
+ }
+
