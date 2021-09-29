@@ -1,0 +1,67 @@
+/* navbar */
+.img-div{
+    display: none;
+}
+
+.shop-name{
+    text-align: center;
+}
+
+.shop-name-con{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+/* welcome-sec */
+.welcome-card{
+    opacity: 0.9;
+    height: 90%;
+    margin: 2rem;
+   
+}
+
+.welcome-bg{
+    height: 40rem;
+}
+
+.welcome-card{
+    margin: 1rem;
+}
+
+.welcome-card p{
+    font-size: 0.8rem;
+    padding-bottom: 2rem;
+}
+.welcome-card h1{
+    line-height: 2rem;
+    padding-top: 2rem;
+    font-size: 1.4rem !important;
+}
+
+/* slider */
+.slider1{
+    margin: auto;
+    margin-top: 2rem;
+    display:block;
+    width: 80%;
+}
+
+/* whats new */
+.whats-new-sec-div{
+    display: block !important;
+}
+
+.whats-new-link h6{
+    margin-bottom: 3rem;
+}
+
+.whats-new-sec h1{
+    margin-top: 3rem;
+}
+
+/* quotes */
+.quotes-bg{
+    width: 100%;
+    
+ }

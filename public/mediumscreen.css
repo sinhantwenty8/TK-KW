@@ -1,0 +1,19 @@
+/* welcome-sec */
+.welcome-card{
+    opacity: 0.9;
+    height: 90%;
+    margin: 7rem;
+}
+
+.welcome-card h1{
+    line-height: 3rem;
+    font-size: 8rem;
+}
+
+
+
+.slider1{
+    display: none;
+}
+
+

@@ -1,0 +1,39 @@
+.img-div{
+    display: none;
+}
+
+.shop-name{
+    text-align: center;
+}
+
+.shop-name-con{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome-div p{
+    justify-content: center;
+
+    margin: auto;
+}
+
+.welcome-section{
+    background:rgba(255,255,255, 0.7);
+    width: 80%;
+    display: flex;
+    margin: auto;
+    margin-top:4rem;
+    height: 34rem;
+}
+
+.header{
+    margin-bottom: 3rem;
+}
+
+.slider1{
+    margin: auto;
+    margin-top: 2rem;
+    display:block;
+    width: 80%;
+}
